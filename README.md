@@ -1,3 +1,3 @@
-# hush
-RCMP Graphic for Operation Hush
-![Operation Hush Current SVG](./Hush.svg)
+# Operation Hush
+Current working copy of graphic for Hush
+![Operation Hush - Current SVG](./Hush.svg)
